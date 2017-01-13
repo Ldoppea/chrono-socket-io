@@ -1,4 +1,4 @@
-var teachMcApp = angular.module('TeachMcApp', [])
+var teachMcApp = angular.module('ChronoApp', [])
 
 teachMcApp.factory('socket', function ($rootScope) {
   var socket = io.connect('/')
