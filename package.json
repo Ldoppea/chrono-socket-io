@@ -1,0 +1,17 @@
+{
+  "name": "chrono-socket-io",
+  "version": "1.0.0",
+  "description": "A chronometer using socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "moment": "^2.17.1",
+    "socket.io": "^1.5.1"
+  }
+}

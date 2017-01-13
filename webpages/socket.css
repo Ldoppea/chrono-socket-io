@@ -1,0 +1,25 @@
+.button {
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  background: grey;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+}
+
+.start {
+  background: green;
+}
+
+.stop {
+  background: red;
+}
+
+.timevalue {
+  font-size: 25px;
+  margin-bottom: 20px;
+  display: block;
+  width: 300px;
+  text-align: center;
+}
